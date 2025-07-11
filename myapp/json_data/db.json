@@ -1,0 +1,52 @@
+{
+  "Student": [
+    {
+      "name": "Rehman",
+      "skill": "Express JS",
+      "email": "rehman@gmail.com",
+      "mobile": "0963223456",
+      "address": "Akurdi",
+      "id": 4
+    },
+    {
+      "name": "Shreya",
+      "skill": "Nodejs",
+      "email": "shreya@gmail.com",
+      "mobile": "988664210",
+      "address": "Karve Nagar",
+      "id": 5
+    },
+    {
+      "name": "pooja",
+      "skill": "Mongo DB",
+      "email": "pooja@gmail.com",
+      "mobile": "7637983098",
+      "address": "katraj",
+      "id": 6
+    },
+    {
+      "name": "sumit",
+      "email": "sumit@gmail.com",
+      "skill": "React",
+      "mobile": "987654321",
+      "address": "pune",
+      "id": 7
+    },
+    {
+      "name": "punam",
+      "email": "punam@gmail.com",
+      "skill": "other",
+      "mobile": "9876543998",
+      "address": "shivaji nagar",
+      "id": 8
+    },
+    {
+      "name": "kalyani",
+      "email": "kalyani@gmail.com",
+      "skill": "Nodejs",
+      "mobile": "7249432214",
+      "address": "shivaji nagar",
+      "id": 9
+    }
+  ]
+}
